@@ -16,7 +16,7 @@ I'm a software developer, specializing in building exceptional websites and mobi
 - 📱 &nbsp;Mobile:&nbsp;
   ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
   ![Ionic React](https://img.shields.io/badge/-Ionic%20React-0A1A2F?style=flat&logo=Ionic&logoColor=00d8fd)
-  ![Expo](https://img.shields.io/badge/-Expo-0A1A2F?style=flat&logo=Expo&logoColor=00d8fd)
+  ![Expo](https://img.shields.io/badge/-Expo-0A1A2F?style=flat&logo=Expo&logoColor=fff)
 - 🗄 &nbsp;Backend:&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
   ![Bun](https://img.shields.io/badge/-Bun-0A1A2F?style=flat&logo=bun)
